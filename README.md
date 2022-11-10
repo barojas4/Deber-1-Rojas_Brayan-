@@ -90,6 +90,46 @@ Colocamos la cantidad entera y el exponente nos dice cuántos ceros pondremos de
 
 Recorremos el punto según el exponente nos diga de derecha a izquierda por ser exponente negativo.
 
+![image](https://user-images.githubusercontent.com/116810935/200973613-eaabccd3-5ecf-4211-a136-e2e531cd2f40.png)
+
+Transformar la base en bases con exponentes iguales tomando el del exponte menor y sumando hasta llegar al mismo exponte de la otra base el punto lo recorremos a la izquierda cuantas veces hemos sumando al exponente.
+
+![image](https://user-images.githubusercontent.com/116810935/200973630-21c8e215-a2dc-44e4-be68-ff6ea6ef5e7d.png)
+
+Transformar la base en bases con exponentes iguales tomando el del exponte menor y sumando hasta llegar al mismo exponte de la otra base el punto lo recorremos a la izquierda cuantas veces hemos sumando al exponente.
+
+![image](https://user-images.githubusercontent.com/116810935/200973683-ba6cd410-edcf-465e-afea-05f32c1a43d8.png)
+
+Transformar la base en bases con exponentes iguales tomando el del exponte menor y sumando hasta llegar al mismo exponte de la otra base el punto lo recorremos a la izquierda cuantas veces hemos sumando al exponente.
+
+#### 11. Realice las siguientes multiplicaciones
+
+![image](https://user-images.githubusercontent.com/116810935/200973828-6a6c5a5f-6848-462b-b159-1ee14f4666cb.png)
+
+Se multiplica los coeficientes y los exponentes de las bases 10 se suman 
+
+![image](https://user-images.githubusercontent.com/116810935/200973864-f2e21e94-6394-4d54-a496-cd3cf5bde277.png)
+
+Se multiplica los coeficientes y los exponentes de las bases 10 se suman 
+
+![image](https://user-images.githubusercontent.com/116810935/200973902-4a65340a-a4cc-4a50-8644-886ace45b855.png)
+
+Se multiplica los coeficientes y los exponentes de las bases 10 se suman 
+
+#### Notación de ingeniería y prefijos métricos
+#### 13. Exprese cada uno de los números siguientes en notación de ingeniería.
+
+![image](https://user-images.githubusercontent.com/116810935/200974207-ee1f5067-debf-43cf-83f6-413ccc2af3b4.png)
+
+Se suma el exponente números necesarios para llegar a una cifra múltiplo del 3 y el punto se recorre a la izquierda cuantas veces se haya añadido números al exponente.
+
+![image](https://user-images.githubusercontent.com/116810935/200974249-83936a17-037d-41df-b65e-d2a438c165e2.png)
+
+Se suma el exponente números necesarios para llegar a una cifra múltiplo del 3 y el punto se recorre a la izquierda cuantas veces se haya añadido números al exponente.
+
+![image](https://user-images.githubusercontent.com/116810935/200974299-38ca5ab0-89eb-4365-9d15-a90789944897.png)
+
+Se resta el exponente números necesarios para llegar a una cifra múltiplo del 3y el punto se recorre a la derecha cuantas veces se haya añadido números al exponente. 
 
 
 
