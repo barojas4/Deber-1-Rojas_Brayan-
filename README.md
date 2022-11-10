@@ -349,14 +349,54 @@ c) 9.76 Ω = blanco, violeta, azul, café, cafe
 
 #### Circuito electrico 
 
+#### 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
+![image](https://user-images.githubusercontent.com/116810935/200980104-3611ecd0-24db-46c6-b8d0-d02954215b8d.png)
+
+Su trayectoria es através de la lampara 2 como se observa en la figura (a)
+
+#### 33.En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
+
+![image](https://user-images.githubusercontent.com/116810935/200980309-adb7867c-c2df-4a8f-9b9f-86c9b573402e.png)
+
+En el circuito b es posible encender todas las lamparas al mismo tiempo.
+
+#### 35.Disponga un arreglo de interruptor mediante el cual se pueda conectar dos fuentes de voltaje(Vs1yBs2) al mismo tiempo a cualquiera de dos resistores (R1yR2) como sigue:
+####                     Vs1 conectada a R1 y Vs2 conectada a R2
  
+####                     Vs1 conectada a R2 y Vs2 conectada a R2
+
+![image](https://user-images.githubusercontent.com/116810935/200981167-c65cfb15-6e01-47fd-8a2d-d94918f61d45.png)
+
+
+El arreglo queda asi
+
+#### Mediciones de circuito básicas
+#### 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
+
+ ![image](https://user-images.githubusercontent.com/116810935/200981281-c4439a5b-dc2e-4e0f-b9f0-42bf3baa1098.png)
+
+#### 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
+
+![image](https://user-images.githubusercontent.com/116810935/200981425-14262415-38f8-4083-9773-415b0e772cb2.png)
+
+Posición 1: V1 = 0V; V2 = VS 
+
+Posición 2: V1 = VS ; V2 = 0V
+
+####  41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
  
- 
- 
- 
- 
- 
+ ![image](https://user-images.githubusercontent.com/116810935/200981627-e1b01075-2227-474b-b781-286ed6c81de0.png)
+
+lo apropiado para esta situación es 
+
+![image](https://user-images.githubusercontent.com/116810935/200981702-66b2be1f-30db-4d42-887f-4776bd2b83e2.png)
+ #### 43.¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+
+![image](https://user-images.githubusercontent.com/116810935/200981829-71830f72-0d09-4fa3-9c2a-f5dca7148f8b.png)
+
+Mide 250 V
+
  
  
  
