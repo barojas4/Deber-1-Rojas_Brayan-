@@ -1,3 +1,12 @@
-# Deber-1-Rojas_Brayan-
-![image](https://user-images.githubusercontent.com/116810935/200895781-594b767d-3871-4378-8f9f-7995e7591467.png)
+                                                        UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
+                                                                ELECTRICA Y ELECTRONICA
+
+Nombre: Brayan Rojas
+NRC: 10067
+MATERIA: Fundamentos de Circuitos electricos 
+
+#1
+
+
+
 
