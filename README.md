@@ -12,8 +12,7 @@ MATERIA: Fundamentos de Circuitos electricos
 
 * Objetivo General
 
-Investigar notación científica y notación de ingeniería con sus prefijos, así como las unidades fundamentales de medida tambein tener conocimientos de voltaje, corriente 
-eléctrica y resistencia para comprender temas de circuitos eléctricos
+Investigar notación científica y notación de ingeniería con sus prefijos, así como las unidades fundamentales de medida tambien tener conocimientos de voltaje, corriente eléctrica y resistencia para comprender temas de circuitos eléctricos
  
  * Objetivos especificos
  
