@@ -397,7 +397,29 @@ lo apropiado para esta situación es
 
 Mide 250 V
 
+#### 45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
+
+#### (a) manecilla en 2, ajuste de intervalo en x 10
+
+R = 20 Ω
+
+#### (b) manecilla en 15, ajuste de intervalo en x 100,000
+
+R = 1.5 MΩ
+
+#### (c) manecilla en 45, ajuste de intervalo en x 100
+
+R = 4500 Ω
+
+#### 47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
+#### (a) I (b) V (c) R1
+
+![image](https://user-images.githubusercontent.com/116810935/200982448-ad4ab234-6547-4f48-a4de-0c54d6638577.png)
  
+ Quedaria asi:
+ 
+ ![image](https://user-images.githubusercontent.com/116810935/200982977-ac7220a4-3c55-4eee-91a3-cd90a2bba4cb.png)
+
  
  
  
