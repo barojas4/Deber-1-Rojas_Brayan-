@@ -159,23 +159,80 @@ Se suma los coeficientes porque tienen la base con los mismos exponentes
 
 Se suma el exponente números necesarios para llegar a una cifra múltiplo del 3 y el punto se recorre a la izquierda cuantas veces se haya añadido números al exponente.
 
+#### 19. Divida los números siguientes y exprese cada resultado en notación de ingeniería 
 
+![image](https://user-images.githubusercontent.com/116810935/200975008-0f2e72bc-3a4a-412b-a467-905818f7e511.png)
 
+Se transforma a notación científica después se dividen los coeficientes y los exponentes se restan después, se resta el exponente números necesarios para llegar a una cifra múltiplo del 3 y el punto se recorre a la derecha cuantas veces se haya añadido números al exponente. 
 
+![image](https://user-images.githubusercontent.com/116810935/200975084-7645490a-747c-4e34-8d26-88ba7e1aecb6.png)
 
+Se dividen los coeficientes y los coeficientes de las bases se restan. 
 
+![image](https://user-images.githubusercontent.com/116810935/200975117-0fc6a8e9-1f70-4433-b13b-4b8f434fd274.png)
 
+Se divide los coeficientes y los exponentes de las bases se restan para dejarlos en notación de ingeniería se resta el exponente números necesarios para llegar a una cifra múltiplo del 3y el punto se recorre a la derecha cuantas veces se haya añadido números al exponente. 
 
+#### 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico
 
+![image](https://user-images.githubusercontent.com/116810935/200975192-a048215f-1f00-4448-bd21-0dd89bacfd37.png)
 
+Tomar en cuenta que 1mA = 0.001A si hacemos una regla de 3 obtendremos el resultado expresado de notación de ingeniería seria 0.345x10^-6 
 
+![image](https://user-images.githubusercontent.com/116810935/200975229-527f93a4-0029-4e7a-be47-87fe3ef6eb42.png)
 
+Tomar en cuenta que 1mA = 0.001A si hacemos una regla de 3 obtendremos el resultado expresado de notación de ingeniería seria 25x10^-9
 
+![image](https://user-images.githubusercontent.com/116810935/200975276-41e3d16b-f42a-46d7-929b-0f84814814ef.png)
 
+Tomar en cuenta que 1nA = 0.000 000 001 A si hacemos una regla de 3 obtendremos el resultado expresado de notación de ingeniería seria 0.129 x 10^9
 
+#### 23. Exprese cada una de las cantidades por medio de prefijos métricos 
 
+![image](https://user-images.githubusercontent.com/116810935/200975467-99e6ca82-45af-4a8e-a737-6bf989b3fa7f.png)
 
+Reescribimos de notación de ingeniería a números decimales
 
+![image](https://user-images.githubusercontent.com/116810935/200975498-f8f448f9-2a98-4bf4-b5e3-f74fce5eb9c7.png)
+
+Reescribimos de notación de ingeniería a números decimales
+
+![image](https://user-images.githubusercontent.com/116810935/200975531-01551028-e4f8-4115-ac0b-f266cbe89593.png)
+
+Reescribimos de notación de ingeniería a números decimales
+
+#### 25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10
+
+![image](https://user-images.githubusercontent.com/116810935/200976211-5ea83714-0a7a-41d1-b4b1-0c5ad6ae1806.png)
+
+Convertir el prefijo de pico en potencia de 10
+
+![image](https://user-images.githubusercontent.com/116810935/200976246-41544429-95ac-468f-aa7d-86d0bd7f2d88.png)
+
+Convertir el prefijo de giga en potencia de 10
+
+![image](https://user-images.githubusercontent.com/116810935/200976285-1c0b3efb-9e3b-4fce-97a5-95e81e444a09.png)
+
+Convertir el prefijo de nano en potencia de 10
+
+#### Conversores de unidades métricas 
+#### 27. Realice las conversiones indicadas 
+
+![image](https://user-images.githubusercontent.com/116810935/200976376-46b8a029-3dda-4002-b26b-fa7c04172437.png)
+
+Tomar en cuenta que 1 mA = 1000 µA
+
+![image](https://user-images.githubusercontent.com/116810935/200976410-73f03a08-c0bb-4a45-a3cd-fa5aa2568e29.png)
+
+Tomar en cuenta que 1 kV = 0.0001 MV
+
+![image](https://user-images.githubusercontent.com/116810935/200976486-808c4c99-0490-47c3-979d-eedeb8d90738.png)
+
+Tomar en cuenta que 1 kV = 0.0001 MV
+
+![image](https://user-images.githubusercontent.com/116810935/200976527-6b10f1bc-957f-4a9f-a2d8-1e284e6e7a61.png)
+
+Tomar en cuenta que 1MW = 1000 kW
 
 
 
