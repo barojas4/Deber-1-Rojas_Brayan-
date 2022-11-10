@@ -131,8 +131,33 @@ Se suma el exponente números necesarios para llegar a una cifra múltiplo del 3
 
 Se resta el exponente números necesarios para llegar a una cifra múltiplo del 3y el punto se recorre a la derecha cuantas veces se haya añadido números al exponente. 
 
+#### 15. Exprese cada numero en notación de ingeniería 
 
+![image](https://user-images.githubusercontent.com/116810935/200974577-636b6f53-99f9-4c35-a20f-9c64c36c6888.png)
 
+Se suma el exponente números necesarios para llegar a una cifra múltiplo del 3 y el punto se recorre a la izquierda cuantas veces se haya añadido números al exponente.
+
+![image](https://user-images.githubusercontent.com/116810935/200974611-695cab69-65db-4f6f-a508-408bbebc3aee.png)
+
+Se resta el exponente números necesarios para llegar a una cifra múltiplo del 3y el punto se recorre a la derecha cuantas veces se haya añadido números al exponente. 
+
+![image](https://user-images.githubusercontent.com/116810935/200974644-7513f340-e079-4e76-9570-0927c2e40a41.png)
+
+Se transforma a notación científica 
+
+#### 17) Sume los números siguientes y exprese cada resultado en notación de ingeniería.
+
+![image](https://user-images.githubusercontent.com/116810935/200974780-36794767-2681-4aa6-b64c-5d8c28b19a11.png)
+
+ Se transforma las bases de un mismo exponente de preferencia el exponente menor y al punto lo recorremos a la izquierda tantas veces como se hayan sumado al exponente y se precede a sumar los coeficientes.
+ 
+ ![image](https://user-images.githubusercontent.com/116810935/200974826-fa165f12-c180-4514-bb53-bde4df3f9b3e.png)
+
+Se suma los coeficientes porque tienen la base con los mismos exponentes
+
+![image](https://user-images.githubusercontent.com/116810935/200974876-6331ea64-2e8d-43cc-918a-2eba669d59d0.png)
+
+Se suma el exponente números necesarios para llegar a una cifra múltiplo del 3 y el punto se recorre a la izquierda cuantas veces se haya añadido números al exponente.
 
 
 
