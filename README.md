@@ -234,16 +234,144 @@ Tomar en cuenta que 1 kV = 0.0001 MV
 
 Tomar en cuenta que 1MW = 1000 kW
 
+#### 29. Sume las cantidades
+
+![image](https://user-images.githubusercontent.com/116810935/200976661-c459e33b-cfb7-4749-bcf8-70562431a7be.png)
+
+Transformar al mismo prefijo para poder sumar cantidades 
+
+![image](https://user-images.githubusercontent.com/116810935/200976693-c095db7b-a17c-48ec-8651-5540ad7f36f2.png)
+
+Transformar al mismo prefijo para poder sumar cantidades 
+
+![image](https://user-images.githubusercontent.com/116810935/200976736-2f4b6a00-d368-4c24-a215-931bfe8ae8e7.png)
+
+Transformar al mismo prefijo para poder sumar cantidades 
+
+#### Carga Eléctrica 
+
+#### 1. ¿Cuál es la carga en coulomb del núcleo de un átomo de cobre?
+
+El átomo de cobre tiene 29 electrones que orbitan el núcleo en cuatro capas
+
+#### 3. ¿Cuántos coulomb de carga poseen 50 x 10 ^31 electrones?
+
+Q= número de electrones / 6.25 x 10^18 electrones/C Tiene 8 x 10^13 C
+Voltaje, corriente y resistencia
+
+#### 5. Determine el voltaje en cada uno de los siguientes casos 
+
+![image](https://user-images.githubusercontent.com/116810935/200977093-a8758efc-54f6-4a95-877a-c74120f7a3e2.png)
+
+ Aplicamos una regla de tres y obtenemos que 10 J/C = 10 V
+ 
+ ![image](https://user-images.githubusercontent.com/116810935/200977122-e41e0827-498f-48ee-9937-275a545d02c4.png)
 
 
+Aplicamos una regla de tres y obtenemos 5 J/(2C)   = 2.5 V
 
+![image](https://user-images.githubusercontent.com/116810935/200977162-7aacf8e3-d2de-4f93-844e-4331ab36fcd1.png)
 
+ Aplicamos una regla de tres y obtenemos 100 J/(25C) = 4V 
+ 
+#### 7. ¿Cuál es el voltaje de una batera que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
 
+Utilizar la formula V=W/Q; V=800 J/ 40 C; V= 20V 
 
+ #### 9.  Si un resistor con una corriente de 2A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s. ¿Cuál es el voltaje a través del resistor? 
+ 
+ ![image](https://user-images.githubusercontent.com/116810935/200977326-44683be9-0ba6-4c18-83cf-bda01c171a08.png)
 
+#### 13. ¿Cuántos coulomb pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+ 
+ ![image](https://user-images.githubusercontent.com/116810935/200977399-a9c46e3f-fc60-44e2-aef1-9a6a5441a89a.png)
 
+#### 15. Determine la conductancia para cada uno de los siguientes valores de resistencia
 
+ ![image](https://user-images.githubusercontent.com/116810935/200977443-9454bd59-8b6a-4031-a9ab-1b0c6e2b08ed.png)
 
+#### Fuentes de voltaje y de corriente
+
+#### 17. Enliste cuatro fuentes de voltaje comunes
+
+ 1) Voltaje alterno
+
+2) Voltaje continuo
+
+3) Voltaje inducido 
+
+4) Voltaje de corriente directa
+
+ #### 19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+ 
+Los circuitos electrónicos de potencia convierten la energía eléctrica de un tipo a otro utilizando dispositivos electrónicos. Los circuitos electrónicos de potencia funcionan utilizando dispositivos semiconductores como interruptores, para controlar o modificar un voltaje o una corriente. Las fuentes de voltaje generan electricidad ya sea inducida o alterna, pero generan no la transforman.
+
+#### Resistores
+#### 21.Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+
+a) rojo, violeta, naranja, oro Según la paleta de colores seria 27000 ohm con tolerancia de 5%
+ 
+b) café, gris, rojo, plata Según la paleta de colores seria 1800 ohm con tolerancia de 10%
+
+#### 23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 330Ω, 2.2k Ω, 56k Ω, 100k Ω y 39k Ω
+
+a) 330 Ω = naranja, naranja, café, oro
+
+b) 2.2k Ω = 2200 k Ω = rojo, rojo, rojo, oro
+
+c) 56k Ω= 56000k Ω= verde, azul, naranja, oro
+
+d) 100k Ω= 100000k Ω = café, negro, amarillo, oro 
+
+e)39k Ω = 39000k Ω = naranja, blanco, naranja, oro
+ 
+#### 25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5%.
+
+a) 0.47 Ω = 470m Ω =
+
+b) 270k Ω
+
+c) 5.1 M Ω
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
