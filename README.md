@@ -288,7 +288,13 @@ Utilizar la formula V=W/Q; V=800 J/ 40 C; V= 20V
 
 #### 15. Determine la conductancia para cada uno de los siguientes valores de resistencia
 
- ![image](https://user-images.githubusercontent.com/116810935/200977443-9454bd59-8b6a-4031-a9ab-1b0c6e2b08ed.png)
+
+a)5 Ω Utilizar la formula G=1/R obtenemos que su conductancia es de 0.2Ω
+
+b)25 Ω Utilizar la formula G=1/R obtenemos que su conductancia es de 0.04Ω
+
+c)100 Ω Utilizar la formula G=1/R obtenemos que su conductancia es de 0.01Ω
+
 
 #### Fuentes de voltaje y de corriente
 
@@ -327,15 +333,23 @@ e)39k Ω = 39000k Ω = naranja, blanco, naranja, oro
  
 #### 25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5%.
 
-a) 0.47 Ω = 470m Ω =
+a) 0.47 Ω = 470m Ω = amarillo, violeta, plata, oro
 
-b) 270k Ω
+b) 270k Ω = rojo, violeta, amarillo, oro
 
-c) 5.1 M Ω
+c) 5.1 M Ω = verde, café, verde, oro
 
+#### 27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene una tolerancia de 1%
  
- 
- 
+a) 14.7 Ω = café, amarillo, violeta, rojo, café
+
+b) 39.2 Ω = naranja, blanco, rojo, oro, café
+
+c) 9.76 Ω = blanco, violeta, azul, café, cafe
+
+#### Circuito electrico 
+
+
  
  
  
