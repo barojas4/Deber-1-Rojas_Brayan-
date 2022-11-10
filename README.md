@@ -423,6 +423,7 @@ R = 4500 Ω
  
  ## 4. Video
  
+ link del video: https://www.youtube.com/watch?v=fc4eJ9sa_rw
  
  ## 5.Conlusión 
  
