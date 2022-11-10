@@ -34,7 +34,7 @@ Para entender la teoría de circuitos eléctricos desde lo más básico es indis
 ## 3. Explicacion y resolucion de ejercicios
 
 Notación científica 
-1. Exprese cada uno de los números siguientes en notación científica
+#### 1. Exprese cada uno de los números siguientes en notación científica
 
 ![image](https://user-images.githubusercontent.com/116810935/200971160-c9d373e9-51d3-4e5a-9074-29f44c13a223.png)
 
@@ -47,4 +47,82 @@ Escogemos la primera cantidad mayor a 1 colocamos un punto y colocamos las canti
 ![image](https://user-images.githubusercontent.com/116810935/200971535-ebd6819c-d260-4332-ab4b-39cdc26fc6f9.png)
 
 Colocamos el numero entero seguido de eso contamos los ceros a la derecha para saber el exponente de la base 10.
+
+#### 3. Exprese cada uno de los números siguientes en notación científica
+
+![image](https://user-images.githubusercontent.com/116810935/200971774-f8ab0c50-a9ca-42e3-bdb3-e2ec5e574926.png)
+
+Escogemos la primera cantidad mayor a 1 colocamos un punto y colocamos las cantidades distintas de cero contamos cuantas cantidades quedaron después del 0 que colocamos y ese será el exponente de la base 10. 
+
+![image](https://user-images.githubusercontent.com/116810935/200972203-4fe0cad8-dc73-4302-8ae1-9424a429de29.png)
+
+Transformamos la división a numero decimal y el punto lo movemos de izquierda a derecha hasta un número distinto de 0 y ese será el exponente de la base 10.
+
+![image](https://user-images.githubusercontent.com/116810935/200972283-40b0938d-4e42-4f6e-97f9-55b38c2ee3f8.png)
+
+Transformamos la división a numero decimal y el punto lo movemos de izquierda a derecha hasta un número distinto de 0 y ese será el exponente de la base 10.
+
+#### 5. Exprese cada uno de los números siguientes en notación científica 
+
+![image](https://user-images.githubusercontent.com/116810935/200972378-b8b3c68b-f558-43e5-9c2e-ae16cb2a89dc.png)
+
+Colocamos la cantidad entera y el exponente nos dice cuántos ceros pondremos de izquierda a derecha por ser positivo el exponente.
+
+![image](https://user-images.githubusercontent.com/116810935/200972409-f2524439-be9e-4fe0-88ec-433dab77807b.png)
+
+Colocamos el punto en un número distinto de 1 de izquierda a derecha y sumamos los espacios al exponte
+
+![image](https://user-images.githubusercontent.com/116810935/200972436-fce8e696-bd38-4656-9868-bde283d33920.png)
+
+Colocamos el punto en un número distinto de 1 de izquierda a derecha y sumamos los espacios al exponte.
+
+#### 7. Exprese cada uno de los números siguientes como un número decimal regular
+
+![image](https://user-images.githubusercontent.com/116810935/200972548-9234f726-0c4b-4302-ae00-c27b01636cb1.png)
+
+Colocamos la cantidad entera y el exponente nos dice cuántos ceros pondremos de derecha a izquierda por ser negativo el exponente. 
+
+![image](https://user-images.githubusercontent.com/116810935/200972586-abb63e29-5dd3-48a4-8aef-090263c4955b.png)
+
+ Quitamos el punto y colocamos los 0 según el número que tenga el exponente de izquierda a derecha por ser positivo 
+ 
+ ![image](https://user-images.githubusercontent.com/116810935/200972623-efc8e61d-e295-41b1-8c8c-69c029e129b3.png)
+
+Recorremos el punto según el exponente nos diga de derecha a izquierda por ser exponente negativo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
